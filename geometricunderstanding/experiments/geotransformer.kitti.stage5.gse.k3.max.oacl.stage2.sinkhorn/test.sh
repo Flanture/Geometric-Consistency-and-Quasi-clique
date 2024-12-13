@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python test.py --snapshot=/mnt/sdb/public/data/fyc/gitspace/GeoTransformer/output/geotransformer.kitti.stage5.gse.k3.max.oacl.stage2.sinkhorn/snapshots/snapshot.pth.tar
